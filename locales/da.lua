@@ -14,11 +14,11 @@ local Translations = {
         you_have_sold = 'Du har %{dataCoins} Qbit(s) solgt!'
     },
     text = {
-        enter_usb = '[E] - Indtast USB',
+        enter_usb = '[E] - Indsæt USB',
         system_is_rebooting = 'Systemet genstarter - %{rebootInfoPercentage} %',
         you_have_not_given_a_new_value = 'Du har ikke givet en ny værdi .. Nuværende værdier: %{crypto}',
         this_crypto_does_not_exist = 'Denne krypto eksisterer ikke :(, tilgængelig: Qbit',
-        you_have_not_provided_crypto_available_qbit = 'Du har ikke leveret Krypto, tilgængelig: Qbit',
+        you_have_not_provided_crypto_available_qbit = 'Du har ikke leveret krypto, tilgængelig: Qbit',
         the_qbit_has_a_value_of = 'Qbit\'en har en værdi på: %{crypto}',
         you_have_with_a_value_of = 'Du har: %{playerPlayerDataMoneyCrypto} QBit, med en værdi på: %{mypocket},-'
     }
